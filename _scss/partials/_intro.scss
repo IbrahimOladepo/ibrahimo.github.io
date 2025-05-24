@@ -97,7 +97,11 @@
       font-weight: 700;
     }
     .technologist {
-      background-image: url('../img/emojis/technologist.png');
+      // background-image: url('../img/emojis/technologist.png');
+      // background-image: url('../img/emojis/fire.png');
+      background-image: url('../img/logo/ib_logo_small.png');
+      height: 25px;
+      vertical-align: middle;
     }
   }
   &__contact {

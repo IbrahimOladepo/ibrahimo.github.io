@@ -714,8 +714,14 @@ strong {
 }
 
 .intro__tagline .technologist {
-    background-image: url(../img/emojis/technologist.png);
+    background-image: url(../img/logo/ib_logo_small.png);
+    height: 25px;
+    vertical-align: middle;
 }
+
+/* .intro__tagline .iblogosmall {
+    background-image: url(../img/logo/ib_logo_small.png);
+} */
 
 .intro__contact {
     font-size: 1.25rem;
