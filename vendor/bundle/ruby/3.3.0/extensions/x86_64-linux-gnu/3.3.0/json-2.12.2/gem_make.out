@@ -8,16 +8,16 @@ checking for whether -std=c99 is accepted as CFLAGS... yes
 creating Makefile
 
 current directory: /home/ibrahim/ib/ibrahimo.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.12.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250524-42717-tdxzyl sitelibdir\=./.gem.20250524-42717-tdxzyl clean
+make DESTDIR\= sitearchdir\=./.gem.20250530-13091-qoykpu sitelibdir\=./.gem.20250530-13091-qoykpu clean
 
 current directory: /home/ibrahim/ib/ibrahimo.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.12.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250524-42717-tdxzyl sitelibdir\=./.gem.20250524-42717-tdxzyl
+make DESTDIR\= sitearchdir\=./.gem.20250530-13091-qoykpu sitelibdir\=./.gem.20250530-13091-qoykpu
 compiling parser.c
 linking shared-object json/ext/parser.so
 
 current directory: /home/ibrahim/ib/ibrahimo.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.12.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250524-42717-tdxzyl sitelibdir\=./.gem.20250524-42717-tdxzyl install
-/usr/bin/install -c -m 0755 parser.so ./.gem.20250524-42717-tdxzyl/json/ext
+make DESTDIR\= sitearchdir\=./.gem.20250530-13091-qoykpu sitelibdir\=./.gem.20250530-13091-qoykpu install
+/usr/bin/install -c -m 0755 parser.so ./.gem.20250530-13091-qoykpu/json/ext
 
 current directory: /home/ibrahim/ib/ibrahimo.github.io/vendor/bundle/ruby/3.3.0/gems/json-2.12.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20250524-42717-tdxzyl sitelibdir\=./.gem.20250524-42717-tdxzyl clean
+make DESTDIR\= sitearchdir\=./.gem.20250530-13091-qoykpu sitelibdir\=./.gem.20250530-13091-qoykpu clean

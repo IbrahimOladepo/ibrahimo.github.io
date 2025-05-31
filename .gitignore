@@ -1,4 +1,9 @@
 .idea
 .DS_Store
-_site
+_site/
 node_modules
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+.bundle/
