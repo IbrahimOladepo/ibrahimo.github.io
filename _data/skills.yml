@@ -1,33 +1,29 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
   - item: Python
-  - item: SQL
+  - item: MATLAB
+  - item: Visual Basic
+  - item: C
   - item: R
 
-frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+mcu_sbc:
+  - item: AVR
+  - item: ESP32
+  - item: STM32
+  - item: Raspberry Pi
+  - item: NVIDIA Jetson
 
-tools:
-  - item: Bash
-  - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+design_simulation:
+  - item: SolidWorks
+  - item: Fusion 360
+  - item: Altium Designer
+  - item: KiCad
+  - item: MATLAB
+  - item: Adobe Illustrator
+  - item: Adobe Photoshop
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+design_production:
+  - item: 3D Printing
+  - item: Laser Cutting
+  - item: SMD Soldering
+  - item: PCB Assembly
+
