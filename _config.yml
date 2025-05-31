@@ -2,12 +2,12 @@
 name: Ibrahim Oladepo
 title: Ibrahim Oladepo | Design Engineer
 description: Building neurotechnologies, designing circuits, and making things work
-url: https://ibrahimo.github.io/
+url: https://www.ibrahimoladepo.com
 baseurl: ''
 email: oladepoibro@gmail.com
-cover: https://ibrahimo.github.io/img/og.png  # TODO: change to my og image
-logo: https://ibrahimo.github.io/img/logo/ib_logo_small.png
-resume: https://ibrahimo.github.io/resume.pdf
+cover: https://www.ibrahimoladepo.com/img/og.png  # TODO: change to my og image
+logo: https://www.ibrahimoladepo.com/img/logo/ib_logo_small.png
+resume: https://www.ibrahimoladepo.com/resume.pdf
 social:
   - title: email
     url: mailto:oladepoibro@gmail.com
